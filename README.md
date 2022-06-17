@@ -11,8 +11,13 @@ vous pouvez ensuite réutiliser en les mettant dans un verre de lait pour réali
 
 Bien sûr, il est extrêmement rare de faire trop de café ou de thé, même
 avec une cafetière italienne, il est parfaitement possible de faire du
-café ou du thé *exprès* pour faire des glaçons pour *latte* même si cela augmente
-l'emprunte carbone de ces derniers. 
+café ou du thé *exprès* pour faire des glaçons pour *latte*. 
+
+🍃
+Cependant nous vous conseillons de ne pas en abuser car cela augmenterai
+considérablement l'emprunte carbone des Glaçons pour Latte. 
+Mais si l'envie est trop forte, gardez en tête que vous pourrez  tout de même
+compenser l'emprunte carbonne de vos GPL en effacant quelques mails.
 
 ![image](https://user-images.githubusercontent.com/31790025/174285420-5f7ac326-6fdb-4fe1-af18-55822214ffbe.png)
 
