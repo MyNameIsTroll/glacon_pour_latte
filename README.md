@@ -3,19 +3,18 @@
 Il s'agit d'un glaçon noir entièrement fait de café, éventuellement de thé (parce qu'on est des gens ouverts d'esprit). 
 
 Il nous arrive parfois de faire trop de café dans votre [cafetière italienne (ou
-Moka)][2], ou de thé dans votre théière, si cela vous arrive surtout ne paniquez pas... attendez patiement que le 
-café ou le thé finisse de refroidir, puis versez-le dans un moule à glaçons et placez-le au congélateur. 
-Vous obtiendrez ainsi de merveilleux glaçons noirs de café ou de thé que
-vous pouvez ensuite réutiliser en les mettant dans un verre de lait pour réaliser un café ou un thé
-*latte* !
+Moka)][2], ou de thé dans votre théière, si cela vous arrive surtout ne paniquez pas... 
+Attendez patiement que le café ou le thé finisse de refroidir, puis versez-le dans un moule à glaçons 
+et placez-le au congélateur. Vous obtiendrez ainsi de merveilleux glaçons noirs de café ou de thé que
+vous pouvez ensuite utiliser dans un verre de lait pour réaliser un café ou un thé *latte* !
 
 Bien sûr, il est extrêmement rare de faire trop de café ou de thé, même
 avec une cafetière italienne, il est parfaitement possible de faire du
 café ou du thé *exprès* pour faire des glaçons pour *latte*. 
-🍃 Cependant nous vous conseillons de ne pas en abuser car cela augmenterai
-considérablement l'emprunte carbone des Glaçons pour Latte. 
-Mais si l'envie est trop forte, gardez en tête que vous pourrez  tout de même
-compenser l'emprunte carbonne de vos GPL en effacant quelques mails.
+Cependant nous vous conseillons de ne pas en abuser car cela augmenterai
+considérablement l'emprunte carbone 🍃 des Glaçons pour Latte. 
+Mais si l'envie est trop forte, gardez en tête que vous pourrez tout de même
+compenser cette emprunte carbonne en effacant quelques-uns de vos e-mails.
 
 ![image](https://user-images.githubusercontent.com/31790025/174285420-5f7ac326-6fdb-4fe1-af18-55822214ffbe.png)
 
